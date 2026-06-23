@@ -1,92 +1,97 @@
-# <div align="center">🚀 LeetCode Journey</div>
-
 <div align="center">
 
-### Mastering Data Structures & Algorithms One Problem at a Time
+# 🚀 LeetCode Journey
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=LeetCode+Journey+in+C%2B%2B;Building+Strong+Problem+Solving+Skills;Future+Software+Engineer;Consistency+Over+Intensity;DSA+%7C+Interview+Preparation+%7C+Growth" />
+### Data Structures • Algorithms • Problem Solving • Interview Preparation
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=hetpatel1b\&label=Repository+Views\&color=blue\&style=for-the-badge)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=LeetCode+Solutions+in+C%2B%2B;Mastering+Data+Structures+and+Algorithms;Building+Strong+Problem+Solving+Skills;Preparing+for+Software+Engineering+Roles;Consistency+Creates+Excellence" />
 
 </div>
 
 ---
 
-# 🎯 About This Repository
+## 📖 Overview
 
-This repository documents my complete **LeetCode Problem Solving Journey** using **C++**.
+This repository contains my solutions to LeetCode problems solved in **C++**.
 
-The goal is not simply to collect solutions.
+The purpose of this repository is to document my journey of learning and mastering **Data Structures & Algorithms**, strengthen problem-solving abilities, and prepare for technical interviews and software engineering opportunities.
 
-The goal is to:
-
-* Develop strong problem-solving skills
-* Build deep understanding of Data Structures
-* Learn optimized approaches
-* Improve coding interview performance
-* Maintain consistency over a long period
-* Prepare for internships and software engineering roles
-
-Every accepted solution represents one more step toward becoming a better engineer.
+Every accepted solution represents a step toward becoming a better engineer through consistent practice and continuous improvement.
 
 ---
 
-# 👨‍💻 About Me
+## 🎯 Objectives
+
+* Strengthen problem-solving skills
+* Master Data Structures and Algorithms
+* Develop efficient and optimized solutions
+* Improve coding interview readiness
+* Build strong computer science fundamentals
+* Maintain long-term learning consistency
+
+---
+
+## 👨‍💻 About Me
 
 ```yaml
 Name: Het Patel
-Education: B.Tech Computer Engineering (CP)
-College: Birla Vishvakarma Mahavidyalaya (BVM)
+
+Education:
+  Degree: B.Tech Computer Engineering (CP)
+  College: Birla Vishvakarma Mahavidyalaya (BVM)
+
 Current Focus:
   - Data Structures & Algorithms
   - Full Stack Development (MERN)
   - Cloud Computing (GCP)
   - Problem Solving
 
-Language:
+Primary Language:
   - C++
 ```
 
 ---
 
-# 🧠 Learning Roadmap
+## 🛠 Tech Stack
 
-### Phase 1 — Foundations
-
-* [ ] Arrays
-* [ ] Strings
-* [ ] Hashing
-* [ ] Sorting
-* [ ] Searching
-
-### Phase 2 — Intermediate
-
-* [ ] Linked List
-* [ ] Stack
-* [ ] Queue
-* [ ] Recursion
-* [ ] Binary Search
-
-### Phase 3 — Trees
-
-* [ ] Binary Trees
-* [ ] BST
-* [ ] Heaps
-* [ ] Priority Queue
-
-### Phase 4 — Advanced
-
-* [ ] Graphs
-* [ ] Dynamic Programming
-* [ ] Greedy Algorithms
-* [ ] Backtracking
-* [ ] Bit Manipulation
+```text
+Language    : C++
+Platform    : LeetCode
+Domain      : Data Structures & Algorithms
+Purpose     : Interview Preparation & Skill Development
+```
 
 ---
 
-# 📂 Repository Structure
+## 🧠 Topics Covered
+
+### Data Structures
+
+* Arrays
+* Strings
+* Linked Lists
+* Stack
+* Queue
+* Hashing
+* Trees
+* Binary Search Trees
+* Heap
+* Graphs
+
+### Algorithms
+
+* Binary Search
+* Sliding Window
+* Two Pointers
+* Recursion
+* Backtracking
+* Greedy Algorithms
+* Dynamic Programming
+* Bit Manipulation
+
+---
+
+## 📂 Repository Structure
 
 ```text
 LeetCode-Journey
@@ -112,13 +117,47 @@ LeetCode-Journey
 
 ---
 
-# 🏆 Current Progress
+## 🎯 Learning Roadmap
 
-| Category            | Status         |
+### Foundations
+
+* [ ] Arrays
+* [ ] Strings
+* [ ] Hashing
+* [ ] Sorting
+* [ ] Searching
+
+### Intermediate Concepts
+
+* [ ] Linked Lists
+* [ ] Stack
+* [ ] Queue
+* [ ] Recursion
+* [ ] Binary Search
+
+### Advanced Data Structures
+
+* [ ] Trees
+* [ ] BST
+* [ ] Heap
+* [ ] Graphs
+
+### Advanced Algorithms
+
+* [ ] Greedy Algorithms
+* [ ] Backtracking
+* [ ] Dynamic Programming
+* [ ] Bit Manipulation
+
+---
+
+## 📈 Progress Tracker
+
+| Topic               | Status         |
 | ------------------- | -------------- |
 | Arrays              | 🚧 In Progress |
 | Strings             | ⏳ Upcoming     |
-| Linked List         | ⏳ Upcoming     |
+| Linked Lists        | ⏳ Upcoming     |
 | Recursion           | ⏳ Upcoming     |
 | Stack               | ⏳ Upcoming     |
 | Queue               | ⏳ Upcoming     |
@@ -128,10 +167,10 @@ LeetCode-Journey
 
 ---
 
-# 📈 Problem Solving Philosophy
+## 💡 Problem Solving Philosophy
 
 ```cpp
-while(success != true)
+while (!success)
 {
     learn();
     practice();
@@ -142,80 +181,57 @@ while(success != true)
 
 ---
 
-# 🎯 Long-Term Goals
+## 🏆 Long-Term Goals
 
-* Solve 500+ Problems
+* Solve 500+ LeetCode Problems
 * Master Core DSA Concepts
-* Strengthen Logical Thinking
-* Crack Technical Interviews
-* Build Strong Engineering Fundamentals
+* Improve Algorithmic Thinking
+* Build Interview Confidence
+* Become a Strong Software Engineer
 
 ---
 
-# ⚡ Rules I Follow
+## ⚡ Principles I Follow
 
-✅ Understand the problem first
+✅ Understand the problem thoroughly
 
 ✅ Think before coding
 
-✅ Learn brute force approach
+✅ Learn brute-force solutions first
 
-✅ Optimize step by step
+✅ Optimize progressively
 
-✅ Write clean code
+✅ Write clean and readable code
 
-✅ Maintain consistency
+✅ Focus on consistency
 
----
-
-# 📚 Topics Covered
-
-### Core Data Structures
-
-* Arrays
-* Strings
-* Linked Lists
-* Stack
-* Queue
-* Trees
-* BST
-* Heap
-* Graph
-
-### Algorithms
-
-* Binary Search
-* Sliding Window
-* Two Pointers
-* Recursion
-* Backtracking
-* Greedy
-* Dynamic Programming
-* Bit Manipulation
+✅ Learn from mistakes
 
 ---
 
-# 🌟 Why This Repository Exists
+## 🌟 Why This Repository Exists
 
-Many people solve problems.
+Many developers solve problems occasionally.
 
-Few people stay consistent.
+Few developers stay consistent for months and years.
 
-This repository is a public commitment to continuous improvement and disciplined learning.
+This repository serves as a public commitment to continuous learning, disciplined practice, and long-term growth in problem solving and software engineering.
 
-The focus is not on speed.
+The goal is not just to solve problems.
 
-The focus is on growth.
-
----
-
-# 🔥 Daily Reminder
-
-> Small progress every day is better than occasional perfection.
+The goal is to become better every day.
 
 ---
 
-# 📫 Connect With Me
+## 🔥 Daily Reminder
+
+> Consistency beats motivation.
+>
+> Small progress repeated daily creates extraordinary results over time.
+
+---
+
+## 📫 Connect With Me
 
 ### GitHub
 
@@ -223,7 +239,7 @@ https://github.com/hetpatel1b
 
 ### LinkedIn
 
-[www.linkedin.com/in/het-prashant-patel](http://www.linkedin.com/in/het-prashant-patel)
+https://www.linkedin.com/in/het-prashant-patel
 
 ---
 
@@ -231,8 +247,6 @@ https://github.com/hetpatel1b
 
 ## 🚀 Keep Learning • Keep Building • Keep Growing
 
-### "Consistency beats motivation."
+### "Success is the sum of small efforts repeated day in and day out."
 
 </div>
-# LeetCode-Journey
-A structured collection of LeetCode solutions in C++, documenting my DSA and problem-solving journey from fundamentals to interview-level challenges.
